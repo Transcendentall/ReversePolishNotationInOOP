@@ -1,0 +1,1 @@
+C:\Users\Болычев Леонид\C++\ReversePolishNotation\PolishTests\Debug\PolishTests.vcxproj.CopyComplete
